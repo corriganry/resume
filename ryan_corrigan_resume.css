@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(117, 12, 12);
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+.start {
+    text-align: center;
+    line-height: 1em;
+}
+
+.qualifications {
+    line-height: 12pt;
+}
+
+
+.bold_text {
+    font-weight: bold;
+}
+
+.left {
+    margin:0;
+    display:inline;
+    float:left;
+}
+
+.right {
+    margin:0;
+    display:inline;
+    float:right;
+}
+
+.left_bold {
+    margin:0;
+    display:inline;
+    float:left;
+    font-weight: bold;
+}
